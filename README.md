@@ -1,7 +1,7 @@
 # HPP: Efficient Heterogeneous Proximity Preserving Network Embedding Model
 
 ### Introduction
-This is the HPP toolkit developed for embedding heterogeneous information networks. The paper of this algorithm is submitted to Expert System, under review.
+This is the HPP toolkit developed for embedding heterogeneous information networks. The paper of this algorithm is submitted to Expert Systems With Applications, under review.
 
 ### Run
 ```
